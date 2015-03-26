@@ -1,3 +1,11 @@
-# HTML5
-¿Qué es HTML5?
-Hola mundo...
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title> Título del documento</title>
+</head>
+
+<body>
+Conteniedo del documento...
+</body>
+</html>
